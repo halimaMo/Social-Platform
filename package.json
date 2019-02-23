@@ -1,0 +1,25 @@
+{
+  "name": "mysocialplatform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Halimah",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4",
+    "mongoose": "^5.4.14"
+  },
+  "devDependencies": {},
+  "description": "A cryptocurrency platform",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Halimah22/Social-Platform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Halimah22/Social-Platform/issues"
+  },
+  "homepage": "https://github.com/Halimah22/Social-Platform#readme"
+}
